@@ -120,7 +120,6 @@ Event Viewer
 
 Successful event generation confirmed that Sysmon was running correctly and collecting endpoint activity.
 
-Screenshot:
 ![Event viewer sysmon test](../../screenshots/sysmon/sysmon-event-viewer.png)
 
 ---
@@ -139,7 +138,6 @@ The following actions were performed:
 
 The objective was to create observable events that could be reviewed within the Sysmon Operational log.
 
-Screenshot:
 ![Sysmon activity test](../../screenshots/sysmon/sysmon-test-activity.png)
 ---
 
@@ -196,8 +194,7 @@ Security use cases include:
 - Monitoring suspicious scripts
 - Investigating persistence attempts
 
-Screenshot:
-![Sysmon event analysis](../../screenshots/sysmon/sysmon-event-analysis.png.png)
+![Sysmon event analysis](../../screenshots/sysmon/sysmon-event-analysis.png)
 
 
 ---
