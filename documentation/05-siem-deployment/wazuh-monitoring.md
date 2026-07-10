@@ -139,20 +139,10 @@ Windows Security Event Log
 **Event ID:** 4625
 
 Collected through:
-
-Windows Endpoint
-
-↓
-
-Wazuh Agent
-
-↓
-
-Wazuh Manager
-
-↓
-
-Wazuh Dashboard
+- Windows Endpoint
+- Wazuh Agent
+- Wazuh Manager
+- Wazuh Dashboard
 
 ### Investigation
 
